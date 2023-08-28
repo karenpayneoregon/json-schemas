@@ -80,5 +80,5 @@
     "AllowedHosts",
     "ConnectionStrings"
   ],
-  "additionalProperties": false
+  "additionalProperties": true
 }
