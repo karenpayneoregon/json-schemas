@@ -50,8 +50,10 @@
     "AllowedHosts": {
       "type": "string",
       "default": "*",
-      "examples": [
-        "*"
+      "enum": [
+        "*",
+        "example.com",
+        "*.example.com"
       ]
     },
     "ConnectionStrings": {
