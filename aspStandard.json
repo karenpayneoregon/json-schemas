@@ -1,0 +1,82 @@
+﻿{
+  "$id": "root",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "Logging": {
+      "type": "object",
+      "properties": {
+        "LogLevel": {
+          "type": "object",
+          "properties": {
+            "Default": {
+              "type": "string",
+              "default": "Information",
+              "enum": [
+                "Warning",
+                "Information"
+              ]
+            },
+            "Microsoft.AspNetCore": {
+              "type": "string",
+              "default": "Warning",
+              "enum": [
+                "Warning",
+                "Information"
+              ]
+            },
+            "Microsoft.EntityFrameworkCore.Database.Command": {
+              "type": "string",
+              "default": "Information",
+              "enum": [
+                "Warning",
+                "Information"
+              ]
+            }
+          },
+          "required": [
+            "Default",
+            "Microsoft.AspNetCore",
+            "Microsoft.EntityFrameworkCore.Database.Command"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "LogLevel"
+      ],
+      "additionalProperties": false
+    },
+    "AllowedHosts": {
+      "type": "string",
+      "default": "*",
+      "examples": [
+        "*"
+      ]
+    },
+    "ConnectionStrings": {
+      "type": "object",
+      "properties": {
+        "DefaultConnection": {
+          "type": "string",
+          "enum": [
+            "Data Source=.\\SQLEXPRESS;Initial Catalog=NorthWind2022;Integrated Security=True;Encrypt=False",
+            "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=FluentValidation1;Integrated Security=True;Encrypt=False",
+            "Data Source=.\\SQLEXPRESS;Initial Catalog=HasConversions;Integrated Security=True;Encrypt=False",
+            "Data Source=.\\SQLEXPRESS;Initial Catalog=VisualStudio2022Data;Integrated Security=True;Encrypt=False"
+          ]
+        }
+      },
+      "required": [
+        "DefaultConnection"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "Logging",
+    "AllowedHosts",
+    "ConnectionStrings"
+  ],
+  "additionalProperties": false
+}
