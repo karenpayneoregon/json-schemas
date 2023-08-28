@@ -1,1 +1,3 @@
 # Sample json schemas for appsetings
+
+More to follow...
