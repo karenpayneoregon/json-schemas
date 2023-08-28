@@ -1,0 +1,2463 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "CustomerIdentifier": {
+          "type": "integer"
+        },
+        "CompanyName": {
+          "type": "string"
+        },
+        "ContactId": {
+          "type": "integer"
+        },
+        "CountryIdentifier": {
+          "type": "integer"
+        },
+        "ContactTypeIdentifier": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "CustomerIdentifier",
+        "CompanyName",
+        "ContactId",
+        "CountryIdentifier",
+        "ContactTypeIdentifier"
+      ]
+    }
+  ]
+}

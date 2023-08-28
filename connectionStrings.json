@@ -1,0 +1,51 @@
+{
+  "$id": "root",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "ConnectionsConfiguration": {
+      "type": "object",
+      "default": "Section to define connections string for three environments",
+      "properties": {
+        "ActiveEnvironment": {
+          "type": "string",
+          "default": "Enter which environment to use",
+          "enum": [
+            "Development",
+            "Stage",
+            "Production"
+          ]
+        },
+        "Development": {
+          "type": "string",
+          "enum": [
+            "Data Source=.\\SQLEXPRESS;Initial Catalog=NorthWind2022;Integrated Security=True;Encrypt=False",
+            "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=FluentValidation1;Integrated Security=True;Encrypt=False",
+            "Data Source=.\\SQLEXPRESS;Initial Catalog=HasConversions;Integrated Security=True;Encrypt=False",
+            "Data Source=.\\SQLEXPRESS;Initial Catalog=VisualStudio2022Data;Integrated Security=True;Encrypt=False"
+          ],
+          "default": "Place a development connection string here",
+          "minLength": 10
+        },
+        "Stage": {
+          "type": "string",
+          "default": "Place a staging connection string here"
+        },
+        "Production": {
+          "type": "string",
+
+          "default": "Place a production connection string here"
+        }
+      },
+      "required": [
+        "ActiveEnvironment",
+        "Development"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "ConnectionsConfiguration"
+  ],
+  "additionalProperties": true
+}
