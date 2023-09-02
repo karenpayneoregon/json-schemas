@@ -3,67 +3,24 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "type": "object",
   "properties": {
-
-      "type": "object",
-      "properties": {
-        "LogLevel": {
-          "type": "object",
-          "properties": {
-            "Default": {
-              "type": "string",
-              "default": "Information",
-              "enum": [
-                "Warning",
-                "Information"
-              ]
-            },
-            "Microsoft.AspNetCore": {
-              "type": "string",
-              "default": "Warning",
-              "enum": [
-                "Warning",
-                "Information"
-              ]
-            },
-            "Microsoft.EntityFrameworkCore.Database.Command": {
-              "type": "string",
-              "default": "Information",
-              "description": "Log level for EF Core",
-              "enum": [
-                "Warning",
-                "Information"
-              ]
-            }
-          },
-          "required": [
-            "Default",
-            "Microsoft.AspNetCore",
-            "Microsoft.EntityFrameworkCore.Database.Command"
-          ],
-          "additionalProperties": false
-        }
-      },
-      "required": [
-        "LogLevel"
-      ],
-      "additionalProperties": false
-    },
     "ConnectionStrings": {
       "type": "object",
       "properties": {
-        "DefaultConnection": {
+        "NorthWindConnection": {
           "type": "string",
-          "description": "Only NorthWind databases",
+          "default": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=EF.JsonHybrid;Trusted_Connection=True",
           "enum": [
-            "Server=(localdb)\\MSSQLLocalDB;Database=NorthWind;Trusted_Connection=True",
-            "Data Source=.\\SQLEXPRESS;Initial Catalog=NorthWind2022;Integrated Security=True;Encrypt=False"
-          ]
+            "Server=(localdb)\\\\MSSQLLocalDB;Database=NorthWind;Trusted_Connection=True\"",
+            "Data Source=.\\\\SQLEXPRESS;Initial Catalog=NorthWind2022;Integrated Security=True;Encrypt=False"
+          ],
+          "description": "Permitted databases"
         }
       },
       "required": [
-        "DefaultConnection"
+        "NorthWindConnection"
       ],
-      "additionalProperties": false
+      "additionalProperties": false,
+      "description": "NorthWind connection strings"
     }
   },
   "required": [
