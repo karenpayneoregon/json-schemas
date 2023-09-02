@@ -1,0 +1,85 @@
+{
+    "$id": "root",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+        "Logging": {
+            "type": "object",
+            "properties": {
+                "LogLevel": {
+                    "type": "object",
+                    "properties": {
+                        "Default": {
+                            "type": "string",
+                            "default": "Information",
+                            "examples": [],
+                            "enum": [
+                                "Warning",
+                                "Information"
+                            ]
+                        },
+                        "Microsoft.AspNetCore": {
+                            "type": "string",
+                            "default": "Warning",
+                            "examples": [],
+                            "enum": [
+                                "None",
+                                "Warning",
+                                "v"
+                            ]
+                        },
+                        "Microsoft.EntityFrameworkCore.Database.Command": {
+                            "type": "string",
+                            "default": "Information",
+                            "examples": [],
+                            "enum": [
+                                "Warning",
+                                "Information"
+                            ],
+                            "description": "EF Core log level"
+                        }
+                    },
+                    "required": [
+                        "Default",
+                        "Microsoft.AspNetCore",
+                        "Microsoft.EntityFrameworkCore.Database.Command"
+                    ],
+                    "additionalProperties": false
+                }
+            },
+            "required": [
+                "LogLevel"
+            ],
+            "additionalProperties": false
+        },
+        "AllowedHosts": {
+            "type": "string",
+            "default": "*",
+            "examples": [
+                "*"
+            ]
+        },
+        "ConnectionStrings": {
+            "type": "object",
+            "properties": {
+                "NorthWindConnection": {
+                    "type": "string",
+                    "default": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=NorthWind2022;Integrated Security=True",
+                    "examples": [
+                        "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=NorthWind2022;Integrated Security=True"
+                    ]
+                }
+            },
+            "required": [
+                "NorthWindConnection"
+            ],
+            "additionalProperties": false
+        }
+    },
+    "required": [
+        "Logging",
+        "AllowedHosts",
+        "ConnectionStrings"
+    ],
+    "additionalProperties": true
+}
