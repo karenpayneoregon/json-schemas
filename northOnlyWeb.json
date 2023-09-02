@@ -67,6 +67,9 @@
                     "default": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=NorthWind2022;Integrated Security=True",
                     "examples": [
                         "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=NorthWind2022;Integrated Security=True"
+                    ],
+                    "enum": [
+                        "Data Source=(localdb)\\\\MSSQLLocalDB;Initial Catalog=NorthWind2022;Integrated Security=True"
                     ]
                 }
             },
